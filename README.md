@@ -1,2 +1,2 @@
 # FizzBuzz-JavaScript
-Simple JS FizzBuzz program
+Simple JavaScript FizzBuzz program
